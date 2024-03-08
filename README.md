@@ -1,3 +1,6 @@
+
+![Image](https://https://ibb.co/LhQnz3C)
+
 # EfficientNetV2B0-PlantVillage
 
 Plant disease detection on PlantVillage dataset using EfficientNetV2-B0.  
