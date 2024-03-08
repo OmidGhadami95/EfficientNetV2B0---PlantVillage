@@ -1,5 +1,5 @@
 
-![Image](https://https://ibb.co/LhQnz3C)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TqKmBsH/Screenshot-3-8-2024-10-01-36-PM.png" alt="Screenshot-3-8-2024-10-01-36-PM" border="0" /></a>
 
 # EfficientNetV2B0-PlantVillage
 
